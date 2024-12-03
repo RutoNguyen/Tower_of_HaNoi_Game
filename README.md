@@ -31,7 +31,7 @@ This is a simple implementation of the **Tower of Hanoi** game using **C++** and
    cd TowerOfHanoi
    ```
 
-2. Open the `.pro` file in **Qt Creator**.
+2. Open the `CMakeLists.txt` file in **Qt Creator**.
 
 3. Build and run the project:
    - Click the **Run** button or press `Ctrl + R`.
