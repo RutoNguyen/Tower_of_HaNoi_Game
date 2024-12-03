@@ -1,0 +1,14 @@
+# ninja log v6
+17	1575	7549406950714915	Tower_of_HaNoi_Game_autogen/timestamp	9bbd7f039bf384ef
+17	1575	7549406950714915	Tower_of_HaNoi_Game_autogen/mocs_compilation.cpp	9bbd7f039bf384ef
+17	1575	7549406950714915	C:/Users/Ruto/Documents/Data_Struct_And_Algorithm/code/Tower_of_HaNoi_Game/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Tower_of_HaNoi_Game_autogen/timestamp	9bbd7f039bf384ef
+17	1575	7549406950714915	C:/Users/Ruto/Documents/Data_Struct_And_Algorithm/code/Tower_of_HaNoi_Game/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Tower_of_HaNoi_Game_autogen/mocs_compilation.cpp	9bbd7f039bf384ef
+1591	1730	7549406953694874	Tower_of_HaNoi_Game_autogen/EWIEGA46WW/qrc_Resource.cpp	6486e136a88c6354
+1591	1730	7549406953694874	C:/Users/Ruto/Documents/Data_Struct_And_Algorithm/code/Tower_of_HaNoi_Game/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Tower_of_HaNoi_Game_autogen/EWIEGA46WW/qrc_Resource.cpp	6486e136a88c6354
+1766	2588	7549406954224923	CMakeFiles/Tower_of_HaNoi_Game.dir/Tower_of_HaNoi_Game_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	15568e48a68ab3a7
+1759	11716	7549406954144948	CMakeFiles/Tower_of_HaNoi_Game.dir/column.cpp.obj	35229e7fd6c5baa8
+1731	11738	7549406953874906	CMakeFiles/Tower_of_HaNoi_Game.dir/Tower_of_HaNoi_Game_autogen/mocs_compilation.cpp.obj	fa73a70fda075ec1
+1737	12079	7549406953934892	CMakeFiles/Tower_of_HaNoi_Game.dir/main.cpp.obj	e26eafe1534f41f1
+1751	12214	7549406954074930	CMakeFiles/Tower_of_HaNoi_Game.dir/disc.cpp.obj	288be9d8324b484a
+1745	13393	7549406954004913	CMakeFiles/Tower_of_HaNoi_Game.dir/mainwindow.cpp.obj	f27c7f8043c27c0e
+13395	14202	7549407070504873	Tower_of_HaNoi_Game.exe	228a4bd3158bdf3e
